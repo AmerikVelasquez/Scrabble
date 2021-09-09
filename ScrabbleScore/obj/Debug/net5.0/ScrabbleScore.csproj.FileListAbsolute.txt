@@ -1,0 +1,16 @@
+C:\Users\Amerik\Desktop\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net5.0\ScrabbleScore.csprojAssemblyReference.cache
+C:\Users\Amerik\Desktop\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net5.0\ScrabbleScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amerik\Desktop\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net5.0\ScrabbleScore.AssemblyInfoInputs.cache
+C:\Users\Amerik\Desktop\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net5.0\ScrabbleScore.AssemblyInfo.cs
+C:\Users\Amerik\Desktop\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net5.0\ScrabbleScore.csproj.CoreCompileInputs.cache
+C:\Users\Amerik\Desktop\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net5.0\ScrabbleScore.deps.json
+C:\Users\Amerik\Desktop\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net5.0\ScrabbleScore.dll
+C:\Users\Amerik\Desktop\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net5.0\ref\ScrabbleScore.dll
+C:\Users\Amerik\Desktop\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net5.0\ScrabbleScore.pdb
+C:\Users\Amerik\Desktop\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net5.0\ScrabbleScore.dll
+C:\Users\Amerik\Desktop\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net5.0\ref\ScrabbleScore.dll
+C:\Users\Amerik\Desktop\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net5.0\ScrabbleScore.pdb
+C:\Users\Amerik\Desktop\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net5.0\ScrabbleScore.exe
+C:\Users\Amerik\Desktop\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net5.0\ScrabbleScore.runtimeconfig.json
+C:\Users\Amerik\Desktop\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net5.0\ScrabbleScore.runtimeconfig.dev.json
+C:\Users\Amerik\Desktop\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net5.0\ScrabbleScore.genruntimeconfig.cache
